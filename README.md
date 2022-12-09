@@ -2,4 +2,4 @@ Link for the PDF: https://drive.google.com/file/d/1ismGseleeWyIPGFHN1NadXLsWv4j_
 
 R-shiny dashboard: https://vaishaliag.shinyapps.io/Visu-dashboard/
 
-Presentaion youtube link: https://youtu.be/aCYaHt81RJE
+Youtube presentaion link: https://youtu.be/aCYaHt81RJE
